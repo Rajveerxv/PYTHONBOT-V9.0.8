@@ -1,6 +1,6 @@
 {
   "name": "PYTHON-V9BOT",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N LEGEND-LX Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ I N \\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \\a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://telegra.ph/file/db5029c3dcc65888ae9ef.jpg",
     "keywords": [
     "telegram",
@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND-LX User",
+      "description": "Fill your Full name. By default it is \\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \\a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı User",
       "value": "LEGEND-LX",
       "required": false
     },
