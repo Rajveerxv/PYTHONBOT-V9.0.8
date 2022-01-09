@@ -1,6 +1,6 @@
 ![photo_2021-11-06_01-38-31](https://user-images.githubusercontent.com/87700009/140607545-b8576cd7-7e43-4f74-bf7c-fefae124c749.jpg)
 
-{DEVELOPER}By = [LEGEND-LX](http://t.me/Nothing_x_0)
+{DEVELOPER}By = [\\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \\a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı](http://t.me/Nothing_x_0)
 
 
 ✞︎tß Pythonẞø†
