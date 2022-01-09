@@ -48,7 +48,7 @@ Contact Me
 
 • LICENSE •[license](https://github.com/Rajveerxv/PYTHONBOT-V9.0.8/blob/master/LICENSE)
 • 💡 CREDITS 💞 •
-[⚜LEGEND-OS](https://github.com/Rajveerxv)
+[\\l 𝐌𝐑-𝐙𝐈𝐃𝐈 🗸 【𝐙𝐈𝐃𝐈】ᵀᴴᴱ ᴼᴿᴵᴳᴵᴻᴬᴸ〚 ꪹ 〛 \\a《OFFICIAL》VIP ACCOUNT ❷⓿❷⓿ 【㉉㉉】\\b MASTER ꪜ【𝐙𝐈𝐃𝐈】[­〨] 〖007〗{ꪹ} ıllıllı 100% ıllıllı](https://github.com/Rajveerxv)
 ![image](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
 ![image](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
